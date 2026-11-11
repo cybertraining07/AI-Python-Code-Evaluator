@@ -55,7 +55,7 @@ AI-Python-Code-Evaluator/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/cybertraining07/AI-Python-Code-Evaluator.git
 cd AI-Python-Code-Evaluator
 ```
 
