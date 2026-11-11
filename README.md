@@ -165,3 +165,9 @@ A future improvement would be to add properly isolated execution using container
 ## Project Purpose
 
 This project demonstrates practical Python development, static analysis, automated testing, security scanning, software quality measurement, scoring logic, and report generation.
+
+## Evaluation Report
+
+The following screenshot shows a successful evaluation of the sample Python program.
+
+![AI Python Code Evaluator - Evaluation Report](evaluation-report.png)
