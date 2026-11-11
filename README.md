@@ -171,3 +171,19 @@ This project demonstrates practical Python development, static analysis, automat
 The following screenshot shows a successful evaluation of the sample Python program.
 
 ![AI Python Code Evaluator - Evaluation Report](evaluation-report.png)
+
+## Vulnerability Detection Demonstration
+
+The evaluator was also tested against a deliberately vulnerable Python sample containing security issues.
+
+### Vulnerable Code Evaluation
+
+![Vulnerable Code Evaluation Report](vulnerable-report.png)
+
+The evaluator identified issues including:
+- Use of `eval()`
+- Hardcoded secret-like values
+- Mutable default arguments
+- Missing function documentation
+
+The vulnerable sample is for educational testing only. It should not be used in production.
